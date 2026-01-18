@@ -2,7 +2,7 @@
 
 A lightweight and beginner-friendly blockchain security tool that scans crypto wallets for potential risks, including malicious contract approvals, unsafe token permissions, and suspicious transaction behavior.
 
-This project is designed to simulate real-world Web3 security analysis systems used by blockchain auditors and crypto compliance teams.
+This project simulates real-world Web3 security analysis systems used by blockchain auditors and crypto compliance teams.
 
 ---
 
@@ -11,30 +11,18 @@ This project is designed to simulate real-world Web3 security analysis systems u
 - Analyze wallet transaction history
 - Detect risky token approvals
 - Identify suspicious smart contract interactions
-- Generate security risk scores
-- Export wallet security reports
-- Works with Ethereum-compatible blockchains
-
----
-
-## Why This Project Exists
-
-With the rapid growth of decentralized finance and Web3 applications, wallet security has become one of the most critical challenges in the crypto ecosystem. This tool demonstrates how blockchain data can be analyzed to help users understand their on-chain risk exposure.
-
-This repository is ideal for:
-- Blockchain beginners
-- Web3 developers
-- Crypto security researchers
-- Portfolio projects
+- Generate wallet risk scores
+- Export blockchain security reports
+- Ethereum-compatible networks supported
 
 ---
 
 ## Tech Stack
 
-- JavaScript (Node.js)
+- Node.js
 - Web3.js
-- Etherscan API
-- JSON-based reporting system
+- Etherscan API (Mocked)
+- JSON Reporting Engine
 
 ---
 
