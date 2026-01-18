@@ -1,0 +1,13 @@
+{
+  "name": "web3-wallet-security-scanner",
+  "version": "1.0.0",
+  "description": "Professional Web3 wallet risk analysis and security scanner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.0"
+  },
+  "license": "MIT"
+}
